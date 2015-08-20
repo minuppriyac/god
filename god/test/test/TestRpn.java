@@ -1,6 +1,7 @@
-package main;
+package test;
 
 
+import main.RPNCalc;
 //import main.java.RPNCalc;
 import junit.framework.TestCase;
 
